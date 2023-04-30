@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.reg-page {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.reg-image-not {
+  width: 320px;
+  height: 350px;
+}
+.not-registered {
+  text-align: center;
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.not-reg {
+  font-size: 18px;
+  color: #64748b;
+  font-weight: 400;
+}
+.btn-reg {
+  height: 2.2rem;
+  width: 10rem;
+  border: 0px solid;
+  border-radius: 3px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #0967d2;
+}
+button:hover {
+  cursor: pointer;
+}
+.registered-image {
+  height: 100px;
+  width: 100px;
+}
+.al-reg {
+  font-size: 18px;
+  color: #64748b;
+}
+.title-reg {
+  font-size: 20px;
+  color: #475569;
+  font-weight: 500;
+}
+.registered-image-close {
+  height: 250px;
+  width: 250px;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list-item-each {
+  margin-right: 15px;
+}
+.list-item-each:hover {
+  cursor: pointer;
+}
+.event-image {
+  height: 200px;
+  width: 380px;
+}
+.event-image:active {
+  border: 2px solid #2dd4bf;
+  border-radius: 6px;
+}
+.each-head {
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.each-info {
+  font-weight: 400;
+  color: #f8fafc;
+  font-size: 20px;
+}

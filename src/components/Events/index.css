@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.main-page-container {
+  width: 100vw;
+  display: flex;
+}
+.event-page-container {
+  width: 60%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+  padding-top: 5px;
+  background-image: linear-gradient(to bottom, #323f4b, #64748b);
+}
+.title-head {
+  color: #ffffff;
+  padding-left: 50px;
+  font-size: 30px;
+  font-weight: 500;
+}
+.event-card {
+  width: 80%;
+}
+.event-lists {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.registration-page {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+}
+.click-page {
+  font-size: 22px;
+  font-weight: 400;
+  color: #0967d2;
+}
